@@ -24,7 +24,6 @@ public class Assig4 {
 			doesFileExist = possibleQuestions.exists();		// Determine if the file exists.
 			if (doesFileExist == false) {
 				System.out.println("Please enter a valid text file name!");	// Request that the user gives another file name if the file does not exist.
-				fileName = sc.next();
 			}
 		}
 		
