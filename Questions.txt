@@ -1,0 +1,45 @@
+How many Stanley Cups have the Pittsburgh Penguins won in their history?
+5
+zero
+one
+two
+three
+four
+3
+0
+0
+Who is the Pittsburgh Penguins' all-time leading scorer?
+3
+Jaromir Jagr
+Mario Lemieux
+Sidney Crosby
+1
+0
+0
+Which of the following would Rick Astley do?
+4
+Let you go
+Give you up
+Make you cry
+Run around and desert you
+0
+0
+0
+Which of the following does Steve Miller NOT claim to be?
+4
+A smoker
+A lover
+A sinner
+A drinker
+3
+0
+0
+What was the name of the first professional hockey team in Pittsburgh?
+4
+Pittsburgh Pirates
+Pittsburgh Penguins
+Pittsburgh Steelers
+Pittsburgh Panthers
+0
+0
+0
